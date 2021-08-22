@@ -1,13 +1,11 @@
-import { StatusBar } from 'expo-status-bar';
 import React from 'react';
-import {createAppContainer} from 'react-navigation';
-import { createStackNavigator } from 'react-navigation-stack';
 
-import Home from './screen/Home';
+import Carousel from './component/Carousel';
+import { dummyData } from './data/Data';
 
-const stackNavigator = createStackNavigator({
-  Home: Home
-});
-
-const App = createAppContainer(stackNavigator);
+const App = () => {
+  return(
+    <Carousel data={dummyData} />
+  )
+}
 export default App;
