@@ -3,25 +3,25 @@ export const bgs = ['#A5BBFF', '#DDBEFE', '#FF63ED', '#B98EFF'];
 export const dummyData =
   [
     {
-      key: "1",
+      key: "0",
       title: "Multi-lateral intermediate moratorium",
       image: "https://image.flaticon.com/icons/png/256/3571/3571572.png",
       description: "I'll back up the multi-byte XSS matrix, that should feed the SCSI application!",
     },
     {
-      key: "2",
+      key: "1",
       title: "Automated radical data-warehouse",
       image: "https://image.flaticon.com/icons/png/256/3571/3571747.png",
       description: "Use the optical SAS system, then you can navigate the auxiliary alarm!",
     },
     {
-      key: "3",
+      key: "2",
       title: "Inverse attitude-oriented system engine",
       image: "https://image.flaticon.com/icons/png/256/3571/3571680.png",
       description: "The ADP array is down, compress the online sensor so we can input the HTTP panel!",
     },
     {
-      key: "4",
+      key: "3",
       title: "Monitored global data-warehouse",
       image: "https://image.flaticon.com/icons/png/256/3571/3571603.png",
       description: "We need to program the open-source IB interface!",
